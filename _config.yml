@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+url: "https://username.github.io"
+baseurl: ""
+
+title: My website
+
+description: A virtual proof that name is awesome!
